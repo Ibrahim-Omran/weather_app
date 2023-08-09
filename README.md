@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+Application to know the weather
 
 ## With :
     - cubit(state management)
